@@ -1,0 +1,52 @@
+header{
+    height: 2px;
+    background: linear-gradient(80deg, red, blue, red);
+}
+body{
+    background-color: black;
+}
+.titre{
+    text-align: center;
+    padding-top: 50px;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.connect{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.indicatif{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+    margin: 0px 50px 0px 50px;
+}
+.photos{
+    height: 240px;
+    width: 200px;
+    border-radius: 5px;
+}
+.divs{
+    width: 200px;
+    padding-top: 50px;
+}
+.formation{
+    color: white;
+    text-decoration: none;
+}
+.A2{
+    position: relative;
+    bottom: 25px;
+    background-color: red;
+    height: 120px;
+    border-radius: 0px 0px 5px 5px;
+    padding-top: 1px;
+}
+.indicatif .divs{
+    padding-right: 30px; 
+}
